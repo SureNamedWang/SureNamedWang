@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Moses, I'm working as junior web developer
+- 👋 Hi, I’m Moses
+- 💞️ I'm working as junior web developer
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on 
+
 - 📫 work.mosespratama@gmail.com
 
 <!---
