@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Moses
 - 💞️ I'm working as junior web developer
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning web development
 
 - 📫 work.mosespratama@gmail.com
 
